@@ -1,0 +1,15 @@
+venv/
+robotvision_training1.ipynb
+.python-version
+
+.DS_Store
+robotvision_training1 copy.json
+AR_523_iteration2-copy.json
+
+test_video.mp4
+test_video.py
+
+model.pt
+best.pt
+
+results/
