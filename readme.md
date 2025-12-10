@@ -9,6 +9,8 @@
 **Professor:** Dr. Praful Hambarde
 
 -----
+Our model on a CCTV footage:
+<img width="945" height="533" alt="Screenshot 2025-12-10 at 1 20 03 PM" src="https://github.com/user-attachments/assets/f4c6c831-6469-4612-9656-c23c93b7e0a5" />
 
 ## Overview
 
